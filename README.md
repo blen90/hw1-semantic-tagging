@@ -4,12 +4,13 @@
 
 My task in this homework was refactor some code to change the semantic tags on the html without affecting the formatting that was used in the css stylesheet. 
 
-I changed a few tags related to header, navigation bar, section, aside and footer and I also tried to organize the structure in a way that was easier to understand what section is which by using comments. 
+I changed a few tags related to header, navigation bar, section, aside and footer and I also tried to organize the structure in a way that was easier to understand what section is which by using comments in the html files.
 
-## Screenshot
-![Finished project] (../homework/assets/finished-project.png))
+There's a screenshot of the finished project below. 
 
----
+## Screenshot of finished project
+![Finished project](./assets/finished-project.png)
+
 
 
 
