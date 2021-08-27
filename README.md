@@ -1,4 +1,4 @@
-# hw1-semantic-tagging
+# Semantic Tagging
 
 ## My task
 
